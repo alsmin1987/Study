@@ -1,4 +1,0 @@
-Study
-=====
-
-gamestudy framework
